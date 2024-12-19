@@ -1,0 +1,16 @@
+1. open terminal 
+
+  type: 
+
+    I. npm install -g create-vite
+create-vite
+    II. give project name (example my react-app)
+    III. select react 
+    IV. select js only 
+    V. Done
+
+2. How to run
+    I. cd name of your app
+    II. npm install
+    III. npm run dev 
+    IV. copy local : example: http://localhost:5173/
