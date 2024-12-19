@@ -6,8 +6,6 @@ function Body() {
     return(
         <>
         <h1>{name}</h1>
-        
-
         </>
     )
     

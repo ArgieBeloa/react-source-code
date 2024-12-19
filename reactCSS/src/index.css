@@ -1,0 +1,31 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* body{
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+} */
+
+/* card css in react */
+.card{
+  margin: 1rem;
+  padding: 1rem;
+  display: inline-block;
+  background-color: whitesmoke;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsl(0, 0%, 0%, 0.1);
+}
+
+.card .cardProfile{
+
+  background-color: rgb(205, 206, 209);
+  border-radius: 50%;
+
+}
